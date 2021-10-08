@@ -1,3 +1,3 @@
 <?php
-echo "Dj";
+echo shell_exec('date');
 ?>
