@@ -1,3 +1,3 @@
 <?php
-echo shell_exec('ffmpeg --version 2>&1');
+echo shell_exec('ffmpeg -version 2>&1');
 ?>
